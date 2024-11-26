@@ -1,4 +1,12 @@
-## Hi there 👋
+Creating emotional journeys through artful interactive experiences. Home of Journey, Flower, Flow, and Sky: Children of the Light.
+
+We believe games can be more than just entertainment - they can be meaningful experiences that connect people and evoke genuine emotions. Since 2006, we've been pushing the boundaries of what games can make you feel.
+
+Our mission is simple: create timeless interactive art that touches hearts across generations and cultures. 
+
+Join our growing family of 160M+ players worldwide as we continue to design experiences that celebrate human connection, empathy, and the small moments of joy we share together. ✨
+
+Let's reimagine what games can be.
 
 <!--
 **thatgamecompany/thatgamecompany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
